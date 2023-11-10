@@ -6,7 +6,7 @@ Compatible with OpenCart 3.x versions.
 
 ## How to use
 ```
-require_once(DIR_STORAGE . 'vendor/voku/htmlmin/autoload.php');
+require_once(DIR_STORAGE . 'vendor/voku/html-min/autoload.php');
 ```
 
 ## License
